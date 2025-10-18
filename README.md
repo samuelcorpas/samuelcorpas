@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Samuel Corpas from Spain, a third-year Software Development major in Computer Engineering at the University of Zaragoza.<br> <br>- 📚 I'm currently learning new technologies to enhance my software development skills.  <br>- ⚡ In my free time, I enjoy exploring emerging technologies and spending quality time with my social circle.</p>
+<p align="left">I'm Samuel Corpas from Spain, a forth-year Software Development major in Computer Engineering at the University of Zaragoza.<br> <br>- 📚 I'm currently learning new technologies to enhance my software development skills.  <br>- ⚡ In my free time, I enjoy exploring emerging technologies and spending quality time with my social circle.</p>
 
 ###
 
