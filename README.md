@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer based in Zaragoza, Spain. I recently graduated in Computer Engineering (Software Development track) from the University of Zaragoza — **Academic Excellence Scholarship** — and I've just joined **Teltronic** as a Software Engineer in their R&D/Applications team, working on backend systems for mission-critical communications (TETRA networks).
+I'm a Computer Engineer based in Zaragoza, Spain. I'm a last-year Computer Engineering student (Software Development track) at the University of Zaragoza and I've just joined **Teltronic** as a Software Engineer in their R&D/Applications team, working on backend systems for mission-critical communications (TETRA networks).
 
 - Currently working on **Java backend development** in a real-world critical communications environment
 - Final Degree Project: **web prototype for call management in emergency control centres** (built in collaboration with Teltronic)
